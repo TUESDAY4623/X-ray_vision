@@ -1,0 +1,2 @@
+Requirement already satisfied: opencv-python in e:\ai_model\project\.venv\lib\site-packages (4.13.0.90)
+Requirement already satisfied: numpy>=2 in e:\ai_model\project\.venv\lib\site-packages (from opencv-python) (2.3.5)

@@ -1,0 +1,68 @@
+Collecting openvino-dev
+  Using cached openvino_dev-2024.6.0-17404-py3-none-any.whl.metadata (15 kB)
+Collecting defusedxml>=0.7.1 (from openvino-dev)
+  Using cached defusedxml-0.7.1-py2.py3-none-any.whl.metadata (32 kB)
+Collecting networkx<=3.1.0 (from openvino-dev)
+  Using cached networkx-3.1-py3-none-any.whl.metadata (5.3 kB)
+Collecting numpy<2.0.0,>=1.16.6 (from openvino-dev)
+  Using cached numpy-1.26.4.tar.gz (15.8 MB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Installing backend dependencies: started
+  Installing backend dependencies: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): still running...
+  Preparing metadata (pyproject.toml): still running...
+  Preparing metadata (pyproject.toml): still running...
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Requirement already satisfied: openvino-telemetry>=2023.2.1 in e:\ai_model\project\.venv\lib\site-packages (from openvino-dev) (2025.2.0)
+Requirement already satisfied: packaging in e:\ai_model\project\.venv\lib\site-packages (from openvino-dev) (25.0)
+Requirement already satisfied: pyyaml>=5.4.1 in e:\ai_model\project\.venv\lib\site-packages (from openvino-dev) (6.0.3)
+Requirement already satisfied: requests>=2.25.1 in e:\ai_model\project\.venv\lib\site-packages (from openvino-dev) (2.32.5)
+INFO: pip is looking at multiple versions of openvino-dev to determine which version is compatible with other requirements. This could take a while.
+Collecting openvino-dev
+  Using cached openvino_dev-2024.5.0-17288-py3-none-any.whl.metadata (15 kB)
+  Using cached openvino_dev-2024.4.0-16579-py3-none-any.whl.metadata (16 kB)
+  Using cached openvino_dev-2024.3.0-16041-py3-none-any.whl.metadata (16 kB)
+  Using cached openvino_dev-2024.2.0-15519-py3-none-any.whl.metadata (16 kB)
+  Using cached openvino_dev-2024.1.0-15008-py3-none-any.whl.metadata (16 kB)
+  Using cached openvino_dev-2024.0.0-14509-py3-none-any.whl.metadata (16 kB)
+Requirement already satisfied: numpy>=1.16.6 in e:\ai_model\project\.venv\lib\site-packages (from openvino-dev) (2.3.5)
+  Using cached openvino_dev-2023.3.0-13775-py3-none-any.whl.metadata (17 kB)
+Collecting addict>=2.4.0 (from openvino-dev)
+  Using cached addict-2.4.0-py3-none-any.whl.metadata (1.0 kB)
+Collecting jstyleson>=0.0.2 (from openvino-dev)
+  Using cached jstyleson-0.0.2.tar.gz (2.0 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Requirement already satisfied: opencv-python in e:\ai_model\project\.venv\lib\site-packages (from openvino-dev) (4.13.0.90)
+Requirement already satisfied: pillow>=8.1.2 in e:\ai_model\project\.venv\lib\site-packages (from openvino-dev) (12.1.0)
+Requirement already satisfied: scipy>=1.8 in e:\ai_model\project\.venv\lib\site-packages (from openvino-dev) (1.17.0)
+Collecting texttable>=1.6.3 (from openvino-dev)
+  Using cached texttable-1.7.0-py2.py3-none-any.whl.metadata (9.8 kB)
+Requirement already satisfied: tqdm>=4.54.1 in e:\ai_model\project\.venv\lib\site-packages (from openvino-dev) (4.67.1)
+INFO: pip is still looking at multiple versions of openvino-dev to determine which version is compatible with other requirements. This could take a while.
+Collecting openvino-dev
+  Using cached openvino_dev-2023.2.0-13089-py3-none-any.whl.metadata (17 kB)
+  Using cached openvino_dev-2023.1.0-12185-py3-none-any.whl.metadata (17 kB)
+  Using cached openvino_dev-2023.0.2-11065-py3-none-any.whl.metadata (17 kB)
+Collecting networkx<=2.8.8 (from openvino-dev)
+  Downloading networkx-2.8.8-py3-none-any.whl.metadata (5.1 kB)
+Collecting openvino-dev
+  Using cached openvino_dev-2023.0.1-11005-py3-none-any.whl.metadata (17 kB)
+  Using cached openvino_dev-2023.0.0-10927-py3-none-any.whl.metadata (17 kB)
+INFO: This is taking longer than usual. You might need to provide the dependency resolver with stricter constraints to reduce runtime. See https://pip.pypa.io/warnings/backtracking for guidance. If you want to abort this run, press Ctrl + C.
+  Downloading openvino_dev-2022.3.2-9279-py3-none-any.whl.metadata (18 kB)
+Collecting numpy<1.26.0,>=1.16.6 (from openvino-dev)
+  Downloading numpy-1.25.2.tar.gz (10.8 MB)
+     ---------------------------------------- 10.8/10.8 MB 4.3 MB/s  0:00:02
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'error'
